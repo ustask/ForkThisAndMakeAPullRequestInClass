@@ -1,0 +1,14 @@
+var myData = [
+	{ 
+		"Apple":5,
+		"Orange":5,
+		"foo":"x",
+		"bar"
+		
+var vistotals = function (someData) {
+	for(var = 0; i < someData.length; i++) {
+var barlength= = someData[i].Apples + someData[i].Oranges
+
+	rect(i = 15, 0, 10, barheight);
+	
+}
